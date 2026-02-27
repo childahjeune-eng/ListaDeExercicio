@@ -21,3 +21,9 @@ if (senha === "0508chil") {
 } else {
     console.log ("acesso negado")
 }
+
+//criar um programa que mostre um desconto de 5% para compras maiores que R%100
+//criar  um programa que classifique uma pessoa como criança, adolescente ou Aduto de acordo com a idade
+//criar um programa que mostre qual tipo de triângulo de acordo com seus lados (Equilateros,Isóceles e Escalneo)
+//criar um programa que mostre conceitis A B C ou D eacordo com as notas: >9.5 A; Entre 9.4 e 8.5 B; entre 8.4 e 7.0 C <6.9 D
+
