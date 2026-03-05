@@ -162,6 +162,5 @@ let resultado = 1
 
 for (let i = 1; i <= expoente; i++) {
     resultado = resultado * base
-    console.log
+    console.log(resultado)
 }
-
